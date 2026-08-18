@@ -98,7 +98,7 @@ Aman_portfolio/
 │   ├── components/
 │   │   ├── About.jsx
 │   │   ├── Contact.jsx
-│   │   ├── Experience.jsx
+│   │   ├── Education.jsx
 │   │   ├── Footer.jsx
 │   │   ├── Hero.jsx
 │   │   ├── Navbar.jsx
