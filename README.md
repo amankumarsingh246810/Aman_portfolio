@@ -1,16 +1,118 @@
-# React + Vite
+# Aman Kumar Singh — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <b>Software Developer | Full Stack Web Developer</b>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  A modern, responsive personal portfolio website built with React and Vite.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p align="center">
+  <a href="https://amankumarsingh246810.github.io/Aman_portfolio/">
+    🌐 Live Portfolio
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/amankumarsingh246810">
+    GitHub
+  </a>
+</p>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 About
 
-## Expanding the ESLint configuration
+This repository contains my personal developer portfolio website.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The portfolio is designed to showcase my:
+
+- Technical skills
+- Software development projects
+- Education
+- Development experience
+- GitHub profile
+- Resume
+- Contact information
+
+The website is built with a **dark, minimal and responsive design** with a focus on readability, usability and a professional developer experience.
+
+---
+
+## ✨ Features
+
+- 🌙 Dark-themed modern UI
+- 📱 Fully responsive design
+- 🧑‍💻 Developer-focused portfolio
+- 🛠️ Skills and technologies section
+- 🚀 Projects showcase
+- 🎓 Education / background section
+- 📄 Resume access
+- 📧 Contact section
+- 🔗 GitHub and LinkedIn integration
+- 📱 Responsive mobile navigation
+- ⚡ Fast development and production builds with Vite
+- 🌐 Deployed using GitHub Pages
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Build Tool
+
+- Vite
+
+### Development Tools
+
+- Git
+- GitHub
+- ESLint
+- VS Code
+
+### Deployment
+
+- GitHub Pages
+- `gh-pages`
+
+---
+
+## 📂 Project Structure
+
+```text
+Aman_portfolio/
+│
+├── public/
+│   └── Aman_Kumar_Singh_Resume.pdf
+│
+├── src/
+│   ├── assets/
+│   │
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   └── Skills.jsx
+│   │
+│   ├── data/
+│   │   └── portfolioData.js
+│   │
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
