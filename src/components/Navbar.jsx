@@ -37,7 +37,7 @@ export default function Navbar() {
         </nav>
 
         <a
-          href="/Aman_portfolio/Aman_Kumar_Singh_Resume.pdf"
+          href={`${import.meta.env.BASE_URL}Aman_Kumar_Singh_Resume.pdf`}
           target="_blank"
           rel="noreferrer"
           className="nav-resume"
