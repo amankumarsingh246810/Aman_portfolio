@@ -81,6 +81,7 @@ The website is built with a **dark, minimal and responsive design** with a focus
 
 - GitHub Pages
 - `gh-pages`
+- Link - https://amankumarsingh246810.github.io/Aman_portfolio/
 
 ---
 
