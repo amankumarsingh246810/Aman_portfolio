@@ -1,4 +1,6 @@
-# Aman Kumar Singh — Personal Portfolio
+<h1 align="center">
+  Aman Kumar Singh — Personal Portfolio
+</h1>
 
 <p align="center">
   <b>Software Developer | Full Stack Web Developer</b>
